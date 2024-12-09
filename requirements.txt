@@ -3,5 +3,5 @@ joblib==1.2.0
 pandas==1.5.3
 numpy==1.24.1
 keras==2.13.1
-tensorflow==2.13.0  # or tensorflow-cpu==2.13.0 if you don't need GPU support
+tensorflow
 scikit-learn==1.2.1
