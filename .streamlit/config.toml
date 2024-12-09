@@ -1,0 +1,9 @@
+[server]
+headless = true
+
+[theme]
+primaryColor = "#FF4F4F"
+backgroundColor = "#FFFFFF"
+
+[python]
+version = "3.9"
